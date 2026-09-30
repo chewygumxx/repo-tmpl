@@ -21,6 +21,10 @@ tags:
 
 # repo-tmpl
 
+> Archived. The template now ships inside
+> [`@chewygumxx/create-repo`](https://github.com/chewygumxx/create-repo)
+> 2.0.0 and later.
+
 This repository exists as a template for the creation of other repositories. It
 provides Conventional Commits enforcement (commitlint, commitizen, husky),
 formatting and linting (Biome, remark, TypeScript), GitHub automation (header
